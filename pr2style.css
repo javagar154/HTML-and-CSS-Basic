@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+body{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: palevioletred;
+}
+form{
+    width: 25px;
+    height: 25px;
+    flex-direction: column;
+    background:black(255,255,255);
+    box-shadow:silver
+
+}
